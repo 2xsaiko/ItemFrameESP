@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "itemframeesp",
+    "name": "ItemFrameESP",
+    "description": "Highlight item frames on demand.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["therealfarfetchd"],
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
